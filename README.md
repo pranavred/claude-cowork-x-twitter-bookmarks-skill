@@ -17,16 +17,9 @@ A Claude skill that scrapes your X.com (Twitter) bookmarks and generates a beaut
 
 ## Installation
 
-Drop the skill folder into your Claude skills directory:
+Drop the skill folder into your Claude Cowork Skills:
 
-```
-~/.claude/skills/claude-cowork-x-twitter-bookmarks-skill/
-├── SKILL.md
-└── scripts/
-    └── generate_bookmarks_html.py
-```
-
-Or if using Cowork, place it in your workspace's `.skills/skills/` folder.
+- place it in your workspace's `.skills/skills/` folder.
 
 ## Usage
 
@@ -36,7 +29,7 @@ Just ask Claude something like:
 - "Export my Twitter bookmarks from the last 3 months"
 - "Archive all my X bookmarks into a document"
 
-Claude will handle the rest — scrolling, extracting, categorizing, and generating the HTML.
+Claude will handle the rest — scrolling, extracting, categorizing, and generating the HTML. Got a basic one, feel free to add more categories or dashboards etc. and create PR.
 
 ## Output
 
