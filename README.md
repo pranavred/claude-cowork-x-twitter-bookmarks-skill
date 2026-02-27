@@ -11,7 +11,7 @@ A Claude skill that scrapes your X.com (Twitter) bookmarks and generates a beaut
 
 ## Requirements
 
-- [Claude Desktop](https://claude.ai/download) with Cowork mode, or [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with Claude in Chrome
+- [Claude Desktop](https://claude.ai/download) with Cowork mode
 - Python 3
 - You must be logged into X.com in your browser
 
